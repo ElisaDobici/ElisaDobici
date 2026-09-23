@@ -11,5 +11,3 @@ I’m passionate about **data science** and the **endless possibilities of AI**.
 🔹 Always exploring new AI frameworks & best practices 🧠
 
 Let’s connect and build something amazing! ✨ 
-
-🔍 Reach me at elisa26dobici@gmail.com 
